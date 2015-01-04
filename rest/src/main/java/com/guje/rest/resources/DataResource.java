@@ -21,11 +21,6 @@ public class DataResource {
     @Inject
     private DataService dataService;
 
-//    @Inject
-//    public DataResource(DataService dataService) {
-//        this.dataService = dataService;
-//    }
-
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String get() {

@@ -13,10 +13,6 @@ public class DataService {
 
     public static final String DATA = "SomeData";
 
-    public DataService() {
-    }
-
-    @Inject
     public String getData() {
         return DATA;
     }
