@@ -1,6 +1,5 @@
 package com.guje.rest.service;
 
-import com.google.inject.Inject;
 import com.google.inject.Singleton;
 
 /**

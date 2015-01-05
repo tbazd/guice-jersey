@@ -4,7 +4,7 @@ import com.guje.rest.service.DataService;
 import org.glassfish.hk2.utilities.binding.AbstractBinder;
 
 /**
- * Guise Bride config.
+ * Guice Bridge config.
  *
  * Created on 1/3/15.
  */
